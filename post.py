@@ -2,5 +2,5 @@ def msg(text: str):
     print(f"{text}")
 
 
-def mesg_poat(text: str):
+def mesg_post(text: str):
     print(f" {text}")

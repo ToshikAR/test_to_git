@@ -6,4 +6,8 @@ def mesg2(text: str):
     print(f" {text}")
 
 
+def mesg3(text: str):
+    print(f" {text}")
+
+
 mesg("start")
